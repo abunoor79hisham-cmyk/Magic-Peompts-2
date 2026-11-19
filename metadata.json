@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Lexicon",
+  "description": "Explore artistic movements and historical techniques, compose structured generation prompts with one-click copy, and decode uploaded artworks into descriptive style prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
